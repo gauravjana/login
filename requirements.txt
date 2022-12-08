@@ -1,5 +1,5 @@
 blinker==1.4
-certifi==2020.4.5.2
+certifi==2022.12.7
 chardet==3.0.4
 Django==2.2.12
 django-mongoengine==0.4.1
